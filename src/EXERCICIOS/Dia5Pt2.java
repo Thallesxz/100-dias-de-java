@@ -1,4 +1,4 @@
-public class DIA5PT2 {
+public class Dia5Pt2 {
     public static void main(String[] args) {
         double salario = 8000;
         double porcentagem;

@@ -1,4 +1,4 @@
-public class DIA5 {
+public class Dia5 {
      static void main(String[] args) {
        int idade = 14;
         System.out.println("Ele tem essa idade:" + idade);
